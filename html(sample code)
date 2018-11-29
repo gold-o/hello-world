@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Ugochi's Book Reviews</title>
+  <head>
+  <body>
+
+  	<center>
+  	  <h1>Ugochi's Book Reviews</h1>
+  	  <p><em>(created 28 Nov. 2018)</em></p>
+  	  <h3>Jump to:</h3>
+  	    <ul>
+  	    	<a href="#BAMM">Beneath a Meth Moon</a><br>
+  	    	<a href="#LR">Love's Reckoning</a><br>
+  	    	<a href="#UC">Undeniably Chosen</a>
+  	    </ul>
+  	   
+  	   <h2><u>Recent Reads</u></h2>
+  	     <div id="BAMM">
+  	     	<h3><em>Beneath a Meth Moon</em></h3>
+  	     		<a href="https://www.goodreads.com/book/show/11737014-beneath-a-meth-moon" target=_blank><img src="https://images.gr-assets.com/books/1387867456l/11737014.jpg"></a>
+  	  			<br>
+  	     		Rating: 3.5 stars
+  	     		<br>
+  	     		<a href="https://www.goodreads.com/review/show/713371650?book_show_action=false&from_review_page=1">Review</a>
+
+  	     <div id="LR">
+  	     	<h3><em>Love's Reckoning</em></h3>
+  	     		<a href="https://www.goodreads.com/book/show/13115556-love-s-reckoning" target=_blank><img src="https://images.gr-assets.com/books/1333242124l/13115556.jpg"></a>
+  	     		<br>
+  	     		Rating: 5 stars
+  	     		<br>
+  	     		<a href="https://www.goodreads.com/review/show/1146607696?book_show_action=false&from_review_page=1">Review</a>
+
+
+  	     <div id="UC">
+  	     	<h3><em>Undeniably Chosen</em></h3>
+  	     	<a href="https://www.goodreads.com/book/show/19108154-undeniably-chosen" target=_blank><img src="https://images.gr-assets.com/books/1498697939l/19108154.jpg"></a>
+  	     	<br>
+  	     	Rating: undecided
+  	     	<br>
+  	     	<a href="https://www.goodreads.com/review/show/1040411640?book_show_action=false&from_review_page=1">Review</a>
+
+  	</center>
+  </body>
+</html>
